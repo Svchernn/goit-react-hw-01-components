@@ -1,0 +1,38 @@
+.history {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+.tableTitle {
+  border: 4px;
+  background-color: cornflowerblue;
+  margin-top: 10px;
+  font-size: medium;
+  font-weight: 500;
+}
+
+th {
+  padding: 15px;
+}
+
+.dataTable {
+  font-size: medium;
+  font-weight: 400;
+}
+
+td {
+  border: 4px;
+  background-color: aliceblue;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    aliceblue,
+    aliceblue 30px,
+    rgb(90, 168, 236) 40px,
+    rgb(90, 168, 236) 20px
+  );
+  padding: 10px;
+  text-align: center;
+}
